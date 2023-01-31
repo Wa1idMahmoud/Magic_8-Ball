@@ -1,2 +1,2 @@
-# My Python projects
+# My Python projects:
 #### Magic_8-Ball
